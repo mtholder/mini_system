@@ -14,6 +14,7 @@
 "xsd": "http://www.w3.org/2001/XMLSchema#", 
 "xsi": "http://www.w3.org/2001/XMLSchema-instance"
 }, 
+"^bogus_timestamp": "2016-12-12T20:14:24.097293", 
 "^ot:agents": {
 "agent": [
 {
